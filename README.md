@@ -4,4 +4,4 @@
 ### Контакты:
 * 📞 +7-922-426-79-78
 * 📲 [Telegram](https://t.me/frogonastick)
-* ✉ [aleksandr_khalepov@mail.ru](mailto:aleksandr_khalepov@mail.ru) 
+* ✉ [Aleksandr_khalepov@mail.ru](mailto:aleksandr_khalepov@mail.ru) 

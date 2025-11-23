@@ -7,7 +7,7 @@ I am a Data Analyst with **2 years of experience** bridging the gap between comp
 ### 🛠️ Technical Stack
 
 **💻 Languages & Core:**
-* **Python:** Pandas, NumPy, SciPy, Matplotlib (Data Manipulation & Stats)
+* **Python:** Pandas, NumPy, SciPy, Request, Seaborn
 * **SQL:** Advanced queries, Window functions, CTEs
 
 **🗄️ Data Storage & Warehousing:**
@@ -38,7 +38,7 @@ I translate business questions into data queries to track:
 
 ---
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrKhalepov&show_icons=true&theme=radical)
 ### 📫 Contacts
 * 📞 +7-922-426-79-78
 * 📲 [Telegram](https://t.me/aleksandr_khalepov)

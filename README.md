@@ -37,8 +37,6 @@ I translate business questions into data queries to track:
 * **Decision Making:** Distinguishing between statistical significance and practical business impact.
 
 ---
-
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrKhalepov&show_icons=true&theme=radical)
 ### 📫 Contacts
 * 📞 +7-922-426-79-78
 * 📲 [Telegram](https://t.me/aleksandr_khalepov)
